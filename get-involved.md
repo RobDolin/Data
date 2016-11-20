@@ -1,6 +1,7 @@
 # Get Involved
 
-Below are ways you can get involved with your local Democratic party and with organizations working on related issues
+Below are ways you can get involved with your local Democratic party and with organizations working on related issues;
+particularly issues for communities most likely to be impacted by the 2016 President-elect.  
 
 ## Index
 
