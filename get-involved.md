@@ -4,13 +4,13 @@ Below are ways you can get involved with your local Democratic party and with or
 
 ## Index
 
-  * [1. Local Democratic Party](1-local-democratic-party)
+  * [1. Local Democratic Party](#1-local-democratic-party)
     * 1.1 Find your local Democratic party organizations
     * 1.2 Subscribe
     * 1.3 Volunteer
     * 1.4 Become a PCO
     * 1.5 Serve as an Officer
-  * [2. Organizations by Issue Area](2-organizations-by-issue-area)
+  * [2. Organizations by Issue Area](#2-organizations-by-issue-area)
     * 2.1 Choice
     * 2.2 Communities of Color
     * 2.3 Environment
@@ -18,7 +18,7 @@ Below are ways you can get involved with your local Democratic party and with or
     * 2.5 Immigration
     * 2.6 LGBTQ Rights
     * 2.7 Religious Freedom
-  * [3. Organizations by Skillset](3-organizations-by-skillset)
+  * [3. Organizations by Skillset](#3-organizations-by-skillset)
     * 3.1 Law
     * 3.2 Technology
   
@@ -113,7 +113,7 @@ defending and advancing the rights of immigrants through direct legal services, 
 
 ### 2.6 LGBTQ Rights
 
-[Gender Justice League](http://www.genderjusticeleague.org/) -  
+[Gender Justice League](http://www.genderjusticeleague.org/) - 
 To empower trans activists and our allies to fight oppression based on gender & sexuality in Washington State 
 and to create a community where trans people can live their lives safely, true to themselves, and free from discrimination.
 
