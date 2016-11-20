@@ -50,14 +50,14 @@ Consider attending a volunteering event like voter registration or campaigning f
 
 A Precinct Committee Office (PCO) is a volunteer who organizes people in their neighborhood.  
 
-// TODO: Add link to more info on serving as a PCO
+Learn more: http://www.wa-democrats.org/local/pco
 
 ### 1.5 Serve as an Officer
 
 Every organization needs volunteers to take minutes at meetings, manage the finances, 
 welcome new members, communicate with existing members, and more. 
 
-// TODO: Add link to more info on serving as a local party officer.
+Find meetings of your local organization: http://www.wa-democrats.org/page/2016-17-reorganization-meetings
 
 ## 2. Organizations by Issue Area
 
@@ -99,7 +99,8 @@ We empower African Americans and underserved communities to thrive by securing e
 
 ### 2.3 Environment
 
-// TODO
+// TODO add organizations including Feet First, Transprotation Choices Coalition, Transportation Riders Union, 
+and WA Environmental Council
 
 ### 2.4 Health Care
 
