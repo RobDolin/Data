@@ -77,20 +77,39 @@ and to foster a community where every child is a wanted child.
 [CAMP](http://www.campseattle.org/) - We seek to create a healthy, thriving world free of poverty by serving low-income individuals 
 and families in central King County including immigrants and refugees, youth, seniors, people with disabilities, and the new poor.
 
+[El Centro](http://www.elcentrodelaraza.com/) - As an organization grounded in the Latino community, 
+our mission is to build unity across all racial and economic sectors, to organize, empower, 
+and defend our most vulnerable and marginalized populations and to bring justice, dignity, equality, 
+and freedom to all the peoples of the world.
+
+[Inspire Development Centers](http://inspire-centers.org/) - 
+To inspire learning, growth and success in life; one child, one family and one community at a time. 
+Inspirar aprendizaje, crecimiento y éxito en la vida: un niño, una familia y una comunidad a la vez.
+
+[Rural Community Development Resources](http://www.rcdr.biz/) - 
+To encourage community development through self employment opportunities for low income entrepreneurs.
+
+[Sea Mar](http://www.seamar.org/) - 
+Sea Mar Community Health Centers is a community-based organization committed to providing quality, 
+comprehensive health, human, housing, educational and cultural services to diverse communities, 
+specializing in service to Latinos. 
+
 [Urban League](http://www.urbanleague.org/) - 
 We empower African Americans and underserved communities to thrive by securing educational and economic opportunities.
 
 ### 2.3 Environment
 
-TODO
+// TODO
 
 ### 2.4 Health Care
 
-TODO
+// TODO
 
 ### 2.5 Immigration
 
-TODO
+[Northwest Immigrants Rights Project](https://www.nwirp.org/) - Immigrant Rights are Human Rights.  
+Northwest Immigrant Rights Project promotes justice through 
+defending and advancing the rights of immigrants through direct legal services, systemic advocacy, and community education.
 
 ### 2.6 LGBTQ Rights
 
@@ -119,6 +138,17 @@ and handling victim complaints of anti-Semitism and all forms of discrimination.
 ## 3. Organizations by Skillset
 
 ### 3.1 Law - Attorneys, Lawyers, Paralegals
+
+[Columbia Legal Services](http://columbialegal.org/) - 
+Columbia Legal Services advocates for people who face injustice and poverty. 
+We seek to achieve social and economic justice for all, using policy reform, litigation, and innovative partnerships 
+to reveal and end actions that harm the communities we serve.
+[Get Involved Pro Bono](http://columbialegal.org/get-involved/pro-bono)
+
+[Northwest Immigrants Rights Project](https://www.nwirp.org/) - Immigrant Rights are Human Rights.  
+Northwest Immigrant Rights Project promotes justice through 
+defending and advancing the rights of immigrants through direct legal services, systemic advocacy, and community education.
+[Take a Pro Bono Case](https://www.nwirp.org/join-us/volunteer/)
 
 ### 3.2 Technology - Designers, Engineers, Product Managers
 
