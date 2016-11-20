@@ -36,11 +36,11 @@ Or if you live in East Wenatchee you would want to get involved in both the Doug
 
 Use this tool to find your legislative district: [http://app.leg.wa.gov/districtfinder/](http://app.leg.wa.gov/districtfinder/)
 
-Connect with your local Democratic organization via these links: https://washdems-public.github.io/Data/orgs.html
+Connect with your local Democratic organizations: https://washdems-public.github.io/Data/orgs.html
 
 ### 1.2 Subscribe
 
-Subscribe to the group's email, Facebook, Twitter, etc. so you can find out about upcoming activities.  
+Subscribe to the group's email list, Facebook, Twitter, etc. so you can find out about upcoming activities.  
 
 ### 1.3 Volunteer
 
@@ -48,16 +48,17 @@ Consider attending a volunteering event like voter registration or campaigning f
 
 ### 1.4 Become a PCO
 
-A Precinct Committee Office (PCO) is a volunteer who organizes people in their neighborhood.  
+A Precinct Committee Office (PCO) is a volunteer who organizes people who live near them.  
 
 Learn more: http://www.wa-democrats.org/local/pco
 
 ### 1.5 Serve as an Officer
 
-Every organization needs volunteers to take minutes at meetings, manage the finances, 
-welcome new members, communicate with existing members, and more. 
+Every organization needs volunteers to welcome new members, take minutes at meetings, manage the finances, 
+communicate with existing members, and more. 
 
-Find meetings of your local organization: http://www.wa-democrats.org/page/2016-17-reorganization-meetings
+Find meetings of your local organizations: http://www.wa-democrats.org/page/2016-17-reorganization-meetings
+
 
 ## 2. Organizations by Issue Area
 
@@ -97,9 +98,9 @@ specializing in service to Latinos.
 [Urban League](http://www.urbanleague.org/) - 
 We empower African Americans and underserved communities to thrive by securing educational and economic opportunities.
 
-### 2.3 Environment
+### 2.3 Environment and Transportation
 
-// TODO add organizations including Feet First, Transprotation Choices Coalition, Transportation Riders Union, 
+// TODO Add organizations including Feet First, Transprotation Choices Coalition, Transportation Riders Union, 
 and WA Environmental Council
 
 ### 2.4 Health Care
@@ -162,3 +163,6 @@ enabling them to champion a platform centered in social and economic justice wit
 We amplify the impact of those out to do good... 
 our mission is to cultivate effective philanthropists 
 and strengthen organizations driving community change – building powerful relationships that advance shared community goals.
+
+[WashDems Tech Discussion](https://www.facebook.com/groups/WashDemsTechDiscuss/) - 
+This is where WA Democrats Technology implementers can share best practices with their peers.
