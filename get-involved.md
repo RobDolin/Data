@@ -66,6 +66,9 @@ Find meetings of your local organizations: http://www.wa-democrats.org/page/2016
 ### 2.1 Choice 
 Protecting people's rights to make thier own medical decisions
 
+[CAIR Project](https://cairproject.org/) - We provide accurate, non-biased information and referrals, 
+as well as financial help in the form of grants for abortion services.
+
 [NARAL Pro Choice Washington](http://www.prochoicewashington.org/) - 
 NARAL Pro-Choice Washington works to protect every woman’s right to access the full range of reproductive health options, 
 including preventing unintended pregnancy, bearing healthy children, and choosing legal abortion. 
