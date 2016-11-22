@@ -45,7 +45,7 @@ Subscribe to the group's email list, Facebook, Twitter, etc. so you can find out
 
 ### 1.3 Volunteer
 
-Consider attending a volunteering event like voter registration or campaigning for a local candidte.
+Consider attending a volunteering event like voter registration or campaigning for a local candidate.
 
 ### 1.4 Become a PCO
 
