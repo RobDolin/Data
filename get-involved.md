@@ -174,5 +174,10 @@ We amplify the impact of those out to do good...
 our mission is to cultivate effective philanthropists 
 and strengthen organizations driving community change – building powerful relationships that advance shared community goals.
 
+[TEALS](https://www.tealsk12.org/) - TEALS (Technology Education and Literacy in Schools) 
+helps high schools build sustainable computer science programs 
+by pairing trained computer science professionals – from across the tech industry – with classroom teachers 
+to team-teach computer science in high schools throughout the US. 
+
 [WashDems Tech Discussion](https://www.facebook.com/groups/WashDemsTechDiscuss/) - 
 This is where WA Democrats Technology implementers can share best practices with their peers.
