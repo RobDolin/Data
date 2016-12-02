@@ -3,6 +3,8 @@
 Below are ways you can get involved with your local Democratic party and with organizations working on related issues;
 particularly issues for communities most likely to be impacted by the 2016 President-elect.  
 
+While this list is long, it is by no means comprehensive; and it is compiled by volunteers.  If you have a suggestion, please [suggest an improvement](https://github.com/WashDems-Public/Data/issues/new).
+
 ## Index
 
   * [1. Local Democratic Party](#1-local-democratic-party)
@@ -11,6 +13,7 @@ particularly issues for communities most likely to be impacted by the 2016 Presi
     * 1.3 Volunteer
     * 1.4 Become a PCO
     * 1.5 Serve as an Officer
+    * 1.6 Volunteer on a Team/Committee
   * [2. Organizations by Issue Area](#2-organizations-by-issue-area)
     * 2.1 Choice
     * 2.2 Communities of Color
@@ -64,6 +67,14 @@ Every organization needs volunteers to welcome new members, take minutes at meet
 communicate with existing members, and more. 
 
 Find meetings of your local organizations: http://www.wa-democrats.org/page/2016-17-reorganization-meetings
+
+### 1.6 Volunteer on a Team/Committee
+
+Many organizations have teams or committees for various aspects of their activites.  
+This might be an event planning committee or a committee with a focus like membership recruitment or voter registration. 
+Opportunities will likely be announced at meetings and on digital media of your location organizations.
+
+Connect with your local Democratic organizations: https://washdems-public.github.io/Data/orgs.html
 
 
 ## 2. Organizations by Issue Area
