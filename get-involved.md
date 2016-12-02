@@ -14,11 +14,13 @@ particularly issues for communities most likely to be impacted by the 2016 Presi
   * [2. Organizations by Issue Area](#2-organizations-by-issue-area)
     * 2.1 Choice
     * 2.2 Communities of Color
-    * 2.3 Environment
-    * 2.4 Health Care
-    * 2.5 Immigration
-    * 2.6 LGBTQ Rights
-    * 2.7 Religious Freedom
+    * 2.3 Criminal Justice - Including Sentencing Reform and Rights Restoration
+    * 2.4 Education Access and Affordability
+    * 2.5 Environment
+    * 2.6 Health Care
+    * 2.7 Immigration
+    * 2.8 LGBTQ Rights
+    * 2.9 Religious Freedom
   * [3. Organizations by Skillset](#3-organizations-by-skillset)
     * 3.1 Law
     * 3.2 Technology
@@ -105,16 +107,24 @@ specializing in service to Latinos.
 [Urban League](http://www.urbanleague.org/) - 
 We empower African Americans and underserved communities to thrive by securing educational and economic opportunities.
 
-### 2.3 Environment and Transportation
+### 2.3 Criminal Justice - Including Sentencing Reform and Rights Restoration
 
-// TODO Add organizations including Feet First, Transprotation Choices Coalition, Transportation Riders Union, 
+// TODO: Add organizations
+
+### 2.4 Education Access and Affordability
+
+// TODO:Add organizations
+
+### 2.5 Environment and Transportation
+
+// TODO: Add organizations including Feet First, Transprotation Choices Coalition, Transportation Riders Union, 
 and WA Environmental Council
 
-### 2.4 Health Care
+### 2.6 Health Care
 
 // TODO
 
-### 2.5 Immigration
+### 2.7 Immigration
 
 [OneAmerica](http://weareoneamerica.org/) - OneAmerica advances the fundamental principles of democracy and justice at the local, 
 state and national levels by building power within immigrant communities in collaboration with key allies.
@@ -123,7 +133,7 @@ state and national levels by building power within immigrant communities in coll
 Northwest Immigrant Rights Project promotes justice through 
 defending and advancing the rights of immigrants through direct legal services, systemic advocacy, and community education.
 
-### 2.6 LGBTQ Rights
+### 2.8 LGBTQ Rights
 
 [Gender Justice League](http://www.genderjusticeleague.org/) - 
 To empower trans activists and our allies to fight oppression based on gender & sexuality in Washington State 
@@ -135,7 +145,7 @@ that empowers youth through the development of leadership, social and life skill
 
 [YSPP](http://yspp.org/) - To reduce youth suicide attempts and deaths in Washington State.
 
-### 2.7 Religious Freedom
+### 2.9 Religious Freedom
 
 [ACLU-WA](https://aclu-wa.org/) - The ACLU is the nation's premier organization dedicated to 
 defending and expanding civil liberties and civil rights for all people in America. 
