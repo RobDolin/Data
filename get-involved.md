@@ -19,8 +19,9 @@ particularly issues for communities most likely to be impacted by the 2016 Presi
     * 2.5 Environment
     * 2.6 Health Care
     * 2.7 Immigration
+    * 2.8 Labor and Right to Organize
     * 2.8 LGBTQ Rights
-    * 2.9 Religious Freedom
+    * 2.10 Religious Freedom
   * [3. Organizations by Skillset](#3-organizations-by-skillset)
     * 3.1 Law
     * 3.2 Technology
@@ -133,7 +134,17 @@ state and national levels by building power within immigrant communities in coll
 Northwest Immigrant Rights Project promotes justice through 
 defending and advancing the rights of immigrants through direct legal services, systemic advocacy, and community education.
 
-### 2.8 LGBTQ Rights
+### 2.8 Labor and Right to Organize
+
+[AFL-CIO](http://www.aflcio.org/) - The AFL-CIO exists to represent people who work.  The American Federation of Labor and Congress of Industrial Organizations is an expression of the hopes and aspirations of the working people of America.
+
+[Change to Win](http://www.changetowin.org/) - Through innovative organizing campaigns in the private-sector economy, we work every day to ensure that working and middle class Americans can use our strength in numbers to reclaim the American Dream – a good American job with good American benefits for everyone who wants it.
+
+[Washington State Labor Council](http://www.wslc.org/) - Widely considered to be the "voice of labor" in our state, the Washington State Labor Council, AFL-CIO, represents and provides services for hundreds of local unions throughout Washington state. 
+
+[Working Washington](http://www.workingwa.org/) - Working Washington is a statewide workers organization that fights to raise wages, improve labor standards, and change the conversation about wealth, inequality, and the value of work.  
+
+### 2.9 LGBTQ Rights
 
 [Gender Justice League](http://www.genderjusticeleague.org/) - 
 To empower trans activists and our allies to fight oppression based on gender & sexuality in Washington State 
@@ -145,7 +156,7 @@ that empowers youth through the development of leadership, social and life skill
 
 [YSPP](http://yspp.org/) - To reduce youth suicide attempts and deaths in Washington State.
 
-### 2.9 Religious Freedom
+### 2.10 Religious Freedom
 
 [ACLU-WA](https://aclu-wa.org/) - The ACLU is the nation's premier organization dedicated to 
 defending and expanding civil liberties and civil rights for all people in America. 
