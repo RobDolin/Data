@@ -122,6 +122,8 @@ We empower African Americans and underserved communities to thrive by securing e
 
 [The Sentencing Project](http://www.sentencingproject.org/) - Founded in 1986, The Sentencing Project works for a fair and effective U.S. criminal justice system by promoting reforms in sentencing policy, addressing unjust racial disparities and practices, and advocating for alternatives to incarceration.
 
+[Stanford Justice Advocacy Project](https://law.stanford.edu/stanford-justice-advocacy-project/) - The Stanford Justice Advocacy Project (formerly the Three Strikes Project) represents inmates serving unjust prison sentences for minor crimes, assists released prisoners successfully reentering their communities, and advocates for fairer and more effective criminal justice policies in California and across the country. 
+
 ### 2.4 Education Access and Affordability
 
 [College Access Now](http://www.collegeaccessnow.org/) - Empower students from low-income families to access, enroll, and graduate from college at rates equal to their more advantaged peers.
