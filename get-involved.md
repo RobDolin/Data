@@ -22,6 +22,7 @@ particularly issues for communities most likely to be impacted by the 2016 Presi
     * 2.8 Labor and Right to Organize
     * 2.8 LGBTQ Rights
     * 2.10 Religious Freedom
+    * 2.11 Women's Economic and Social Equality
   * [3. Organizations by Skillset](#3-organizations-by-skillset)
     * 3.1 Law
     * 3.2 Technology
@@ -75,6 +76,8 @@ as well as financial help in the form of grants for abortion services.
 [NARAL Pro Choice Washington](http://www.prochoicewashington.org/) - 
 NARAL Pro-Choice Washington works to protect every woman’s right to access the full range of reproductive health options, 
 including preventing unintended pregnancy, bearing healthy children, and choosing legal abortion. 
+
+[National Women's Political Caucus of Washington](http://www.nwpcwa.org/) - Our mission is to identify, mentor, educate, and support women leaders in our community who demonstrate a commitment to Reproductive Freedom and Women's Economic and Social Equality.
 
 [Planned Parenthood](https://www.plannedparenthood.org/planned-parenthood-great-northwest-hawaiian-islands) - 
 The mission of PPGNHI is to support the lifelong sexual health of women and men, 
@@ -166,6 +169,10 @@ educating law enforcement regarding nuances of hate crimes,
 and handling victim complaints of anti-Semitism and all forms of discrimination.
 
 [CAIR-WA](http://cairseattle.org/) - The Council on American-Islamic Relations (CAIR) is a grassroots civil rights and advocacy group.
+
+### 2.11 Women's Economic and Social Equality
+
+[National Women's Political Caucus of Washington](http://www.nwpcwa.org/) - Our mission is to identify, mentor, educate, and support women leaders in our community who demonstrate a commitment to Reproductive Freedom and Women's Economic and Social Equality.
 
 
 ## 3. Organizations by Skillset
