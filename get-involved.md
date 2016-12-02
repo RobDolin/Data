@@ -18,11 +18,12 @@ particularly issues for communities most likely to be impacted by the 2016 Presi
     * 2.4 Education Access and Affordability
     * 2.5 Environment
     * 2.6 Health Care
-    * 2.7 Immigration
-    * 2.8 Labor and Right to Organize
-    * 2.8 LGBTQ Rights
-    * 2.10 Religious Freedom
-    * 2.11 Women's Economic and Social Equality
+    * 2.7 Housing and Homelessness
+    * 2.8 Immigration
+    * 2.9 Labor and Right to Organize
+    * 2.10 LGBTQ Rights
+    * 2.11 Religious Freedom
+    * 2.12 Women's Economic and Social Equality
   * [3. Organizations by Skillset](#3-organizations-by-skillset)
     * 3.1 Law
     * 3.2 Technology
@@ -85,6 +86,8 @@ and to foster a community where every child is a wanted child.
 
 ### 2.2 Communities of Color
 
+[Advancement Project](http://www.advancementproject.org/) - Advancement Project is a next generation, multi-racial civil rights organization. Rooted in the great human rights struggles for equality and justice, we exist to fulfill America’s promise of a caring, inclusive and just democracy. We use innovative tools and strategies to strengthen social movements and achieve high impact policy change.
+
 [CAMP](http://www.campseattle.org/) - We seek to create a healthy, thriving world free of poverty by serving low-income individuals 
 and families in central King County including immigrants and refugees, youth, seniors, people with disabilities, and the new poor.
 
@@ -113,11 +116,17 @@ We empower African Americans and underserved communities to thrive by securing e
 
 ### 2.3 Criminal Justice - Including Sentencing Reform and Rights Restoration
 
-// TODO: Add organizations
+[Ban the Box](http://bantheboxcampaign.org/) - The Ban the Box campaign was started by All of Us or None, a national civil rights movement of formerly-incarcerated people and our families. We started the campaign in 2004, after a series of Peace and Justice Community Summits identified job and housing discrimination as huge barriers to our successfully returning to our communities after jail or prison. 
+
+[Project Vote](http://www.projectvote.org/) -  Project Vote’s mission is to build an electorate that accurately represents the diversity of this nation’s citizenry, and to ensure that every eligible citizen can register, vote, and cast a ballot that counts.
+
+[The Sentencing Project](http://www.sentencingproject.org/) - Founded in 1986, The Sentencing Project works for a fair and effective U.S. criminal justice system by promoting reforms in sentencing policy, addressing unjust racial disparities and practices, and advocating for alternatives to incarceration.
 
 ### 2.4 Education Access and Affordability
 
-// TODO:Add organizations
+[College Access Now](http://www.collegeaccessnow.org/) - Empower students from low-income families to access, enroll, and graduate from college at rates equal to their more advantaged peers.
+
+// TODO: Add more organizations
 
 ### 2.5 Environment and Transportation
 
@@ -126,9 +135,17 @@ and WA Environmental Council
 
 ### 2.6 Health Care
 
-// TODO
+// TODO: Add organizations 
 
-### 2.7 Immigration
+### 2.7 Housing and Homelessness
+
+[Downtown Emergency Service Center](http://www.desc.org/) - The Downtown Emergency Service Center (DESC) works to end the homelessness of vulnerable people, particularly those living with serious mental or addictive illnesses. Through partnerships and an integrated array of comprehensive services, treatment and housing, we give people the opportunity to reach their highest potential.
+
+[Plymouth Housing Group](https://www.plymouthhousing.org/) - Plymouth Housing Group works to eliminate homelessness and address its causes by preserving, developing and operating safe, quality, supportive housing and by providing homeless adults with opportunities to stabilize and improve their lives.
+
+[Washington Low Income Housing Alliance](http://wliha.org/) - The mission of the Washington Low Income Housing Alliance is to lead the movement to ensure that all our residents thrive in safe, healthy, affordable homes. We do this through advocacy, education, and organizing.
+
+### 2.8 Immigration
 
 [OneAmerica](http://weareoneamerica.org/) - OneAmerica advances the fundamental principles of democracy and justice at the local, 
 state and national levels by building power within immigrant communities in collaboration with key allies.
@@ -137,7 +154,7 @@ state and national levels by building power within immigrant communities in coll
 Northwest Immigrant Rights Project promotes justice through 
 defending and advancing the rights of immigrants through direct legal services, systemic advocacy, and community education.
 
-### 2.8 Labor and Right to Organize
+### 2.9 Labor and Right to Organize
 
 [AFL-CIO](http://www.aflcio.org/) - The AFL-CIO exists to represent people who work.  The American Federation of Labor and Congress of Industrial Organizations is an expression of the hopes and aspirations of the working people of America.
 
@@ -147,7 +164,7 @@ defending and advancing the rights of immigrants through direct legal services, 
 
 [Working Washington](http://www.workingwa.org/) - Working Washington is a statewide workers organization that fights to raise wages, improve labor standards, and change the conversation about wealth, inequality, and the value of work.  
 
-### 2.9 LGBTQ Rights
+### 2.10 LGBTQ Rights
 
 [Gender Justice League](http://www.genderjusticeleague.org/) - 
 To empower trans activists and our allies to fight oppression based on gender & sexuality in Washington State 
@@ -159,7 +176,7 @@ that empowers youth through the development of leadership, social and life skill
 
 [YSPP](http://yspp.org/) - To reduce youth suicide attempts and deaths in Washington State.
 
-### 2.10 Religious Freedom
+### 2.11 Religious Freedom
 
 [ACLU-WA](https://aclu-wa.org/) - The ACLU is the nation's premier organization dedicated to 
 defending and expanding civil liberties and civil rights for all people in America. 
@@ -170,10 +187,13 @@ and handling victim complaints of anti-Semitism and all forms of discrimination.
 
 [CAIR-WA](http://cairseattle.org/) - The Council on American-Islamic Relations (CAIR) is a grassroots civil rights and advocacy group.
 
-### 2.11 Women's Economic and Social Equality
+[Military Religious Freedom Foundation](https://www.militaryreligiousfreedom.org/) - The Military Religious Freedom Foundation (MRFF) is dedicated to ensuring that all members of the United States Armed Forces fully receive the Constitutional guarantee of religious freedom to which they and all Americans are entitled by virtue of the Establishment Clause of the First Amendment.
+
+### 2.12 Women's Economic and Social Equality
 
 [National Women's Political Caucus of Washington](http://www.nwpcwa.org/) - Our mission is to identify, mentor, educate, and support women leaders in our community who demonstrate a commitment to Reproductive Freedom and Women's Economic and Social Equality.
 
+[YWCA Seattle | King | Snohomish](http://www.ywcaworks.org/) - YWCA is on a mission to eliminate racism, empower women, stand up for social justice, help families, and strengthen communities.  A regional leader for change since 1894, YWCA Seattle | King | Snohomish operates 30 program sites across two counties and serves 15,000 people each year.
 
 ## 3. Organizations by Skillset
 
