@@ -95,6 +95,9 @@ including preventing unintended pregnancy, bearing healthy children, and choosin
 The mission of PPGNHI is to support the lifelong sexual health of women and men, 
 and to foster a community where every child is a wanted child.
 
+[Surge](http://surgereprojustice.org/) - Surge works to end reproductive oppression 
+and to ensure access to reproductive health services and economic security for all people.
+
 ### 2.2 Communities of Color
 
 [Advancement Project](http://www.advancementproject.org/) - Advancement Project is a next generation, multi-racial civil rights organization. Rooted in the great human rights struggles for equality and justice, we exist to fulfill America’s promise of a caring, inclusive and just democracy. We use innovative tools and strategies to strengthen social movements and achieve high impact policy change.
@@ -187,6 +190,11 @@ defending and advancing the rights of immigrants through direct legal services, 
 [AFL-CIO](http://www.aflcio.org/) - The AFL-CIO exists to represent people who work.  The American Federation of Labor and Congress of Industrial Organizations is an expression of the hopes and aspirations of the working people of America.
 
 [Change to Win](http://www.changetowin.org/) - Through innovative organizing campaigns in the private-sector economy, we work every day to ensure that working and middle class Americans can use our strength in numbers to reclaim the American Dream – a good American job with good American benefits for everyone who wants it.
+
+[Puget Sound Sage](http://www.pugetsoundsage.org/) - Our vision is a region that includes a robust economy 
+in which all jobs provide working people the wages and benefits needed to grow and support a family. 
+We believe that, regardless of race or status, people should have access to good jobs and dignity at work, 
+as well as a clean environment and safe, affordable housing. 
 
 [Washington State Labor Council](http://www.wslc.org/) - Widely considered to be the "voice of labor" in our state, the Washington State Labor Council, AFL-CIO, represents and provides services for hundreds of local unions throughout Washington state. 
 
