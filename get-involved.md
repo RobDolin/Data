@@ -176,6 +176,9 @@ we help people make lasting change.
 
 [Washington Low Income Housing Alliance](http://wliha.org/) - The mission of the Washington Low Income Housing Alliance is to lead the movement to ensure that all our residents thrive in safe, healthy, affordable homes. We do this through advocacy, education, and organizing.
 
+[Walla Walla Alliance for the Homeless](http://www.wwallianceforthehomeless.com/) - We are a non-profit organization 
+dedicated to recognizing and resolving the unmet needs of the homeless population of Walla Walla.
+
 ### 2.8 Immigration
 
 [OneAmerica](http://weareoneamerica.org/) - OneAmerica advances the fundamental principles of democracy and justice at the local, 
