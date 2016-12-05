@@ -181,12 +181,16 @@ dedicated to recognizing and resolving the unmet needs of the homeless populatio
 
 ### 2.8 Immigration
 
-[OneAmerica](http://weareoneamerica.org/) - OneAmerica advances the fundamental principles of democracy and justice at the local, 
-state and national levels by building power within immigrant communities in collaboration with key allies.
+[Kids in Need of Defense (KIND)](https://supportkind.org/) - We provide pro bono attorneys 
+to represent unaccompanied immigrant and refugee children in their deportation proceedings, 
+as well as legal screenings, and Know Your Rights presentations.
 
 [Northwest Immigrants Rights Project](https://www.nwirp.org/) - Immigrant Rights are Human Rights.  
 Northwest Immigrant Rights Project promotes justice through 
 defending and advancing the rights of immigrants through direct legal services, systemic advocacy, and community education.
+
+[OneAmerica](http://weareoneamerica.org/) - OneAmerica advances the fundamental principles of democracy and justice at the local, 
+state and national levels by building power within immigrant communities in collaboration with key allies.
 
 ### 2.9 Labor and Right to Organize
 
