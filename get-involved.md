@@ -111,6 +111,10 @@ and freedom to all the peoples of the world.
 To inspire learning, growth and success in life; one child, one family and one community at a time. 
 Inspirar aprendizaje, crecimiento y éxito en la vida: un niño, una familia y una comunidad a la vez.
 
+[NAACP](http://www.seattlekingcountynaacp.org/) - The mission of the National Association for the Advancement of Colored People is 
+to ensure the political, educational, social, and economic equality of rights of all persons 
+and to eliminate racial hatred and racial discrimination.
+
 [Progreso](http://www.progresowa.org/) - Progreso's mission is to ensure that Latino communities are fairly represented 
 in Washington State’s social, economic and political systems to improve the quality of life for all Washingtonians.
 
