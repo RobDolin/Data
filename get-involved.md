@@ -154,6 +154,9 @@ and WA Environmental Council
 
 [Downtown Emergency Service Center](http://www.desc.org/) - The Downtown Emergency Service Center (DESC) works to end the homelessness of vulnerable people, particularly those living with serious mental or addictive illnesses. Through partnerships and an integrated array of comprehensive services, treatment and housing, we give people the opportunity to reach their highest potential.
 
+[Friends of Youth](http://www.friendsofyouth.org/) - Friends of Youth delivers a broad range of services to youth and their families 
+to improve their emotional stability and self-sufficiency.  
+
 [Plymouth Housing Group](https://www.plymouthhousing.org/) - Plymouth Housing Group works to eliminate homelessness and address its causes by preserving, developing and operating safe, quality, supportive housing and by providing homeless adults with opportunities to stabilize and improve their lives.
 
 [Washington Low Income Housing Alliance](http://wliha.org/) - The mission of the Washington Low Income Housing Alliance is to lead the movement to ensure that all our residents thrive in safe, healthy, affordable homes. We do this through advocacy, education, and organizing.
